@@ -43,7 +43,7 @@ Sharing my preferred configuration for iTerm2:
 
 8. Update ZSH configuration (.zshrc)
     - Open `~/.zshrc` from your local machine
-    - Copy .zshrc bits from this repo and paste there.
+    - Copy [.zshrc](/.zshrc) bits from this repo and paste there.
 
 9. **Restart iTerm2** for all changes to take effect.
 
