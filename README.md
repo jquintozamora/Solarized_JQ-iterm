@@ -7,6 +7,9 @@ Sharing my preferred configuration for iTerm2:
     - **Theme**: `agnoster` + remove user and machine name
     - **Plugins**: git, extract, iterm2, npm, osx and zsh-autosuggestions
 
+![solarized jq iterm2](/solarized_jq_iterm2.png)
+
+
 ## Install from scratch
 
 1. Install [HomeBrew](https://brew.sh)
